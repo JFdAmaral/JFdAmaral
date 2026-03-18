@@ -8,6 +8,6 @@
 
 - 🔭 I’m currently working on Telecom as an Incident and Problem Analyst
 - 🌱 I’m currently learning Python and SQL as my way to become a Data Scientist
-- 🤔 I’m looking for help with learning. Tips and 
+- 🤔 I’m looking for help with learning. Tips and all
 - 📫 How to reach me: doamaraljuliafernandes@gmail.com
 - 😄 Pronouns: any
